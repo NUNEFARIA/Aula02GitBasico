@@ -1,37 +1,11 @@
-# Compilados
+# Java
 *.class
-*.jar
-*.war
-*.ear
 
-# Logs
-*.log
-
-# Arquivos temporários
-*.tmp
-*.swp
-*~
-
-# IntelliJ / JetBrains
+# IntelliJ
 .idea/
 *.iml
 out/
 
-# Eclipse
-.project
-.classpath
-.settings/
-
-# VS Code
-.vscode/
-
-# Maven
-target/
-
-# Gradle
-.gradle/
-build/
-
-# Sistema operacional
+# OS
 .DS_Store
 Thumbs.db
